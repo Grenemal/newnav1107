@@ -153,7 +153,7 @@ class PWAManager {
           <i class="bi bi-phone"></i>
         </div>
         <div class="prompt-text">
-          <h3>安装水果导航</h3>
+          <h3>安装ElOneven</h3>
           <p>添加到主屏幕，享受更好的使用体验</p>
         </div>
         <div class="prompt-actions">
@@ -277,7 +277,7 @@ class PWAManager {
     message.innerHTML = `
       <div class="success-content">
         <i class="bi bi-check-circle"></i>
-        <span>水果导航已成功安装到您的设备</span>
+        <span>ElOneven已成功安装到您的设备</span>
       </div>
     `;
 
